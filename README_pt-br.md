@@ -2,7 +2,7 @@
 
 # Google Glass :eyeglasses:
 
-> :us: If you prefer to read in another language, this README was also written in english. Click [HERE](https://github.com/lucasmc64/html5_cev/blob/main/README.md) to access.
+> :us: If you prefer to read in another language, this README was also written in english. Click [HERE](https://github.com/lucasmc64/html5_cev/blob/master/README.md) to access.
 
 *Esse foi um projeto desenvolvido durante o curso HTML5 do [Curso em Vídeo](https://www.cursoemvideo.com/).*
 
