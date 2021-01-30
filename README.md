@@ -36,6 +36,6 @@ The first step is to clone the project, either via terminal or GitHub Desktop, o
 
 There are no requirements to run the project on your computer! Just double click on the *index.html* file and it will open in your default browser.
 
-**## If everything went well... :tada:**
+## If everything went well... :tada:
 
 Now you are running the project beautifully!
