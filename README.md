@@ -2,9 +2,7 @@
 
 # :eyeglasses: Google Glass
 
-> :brazil: Caso prefira ler em outra língua, esse README foi escrito também em português. Clique [AQUI](/README_pt-br.md) para acessar.
-
-*This was a project developed during the [Curso em Vídeo](https://www.cursoemvideo.com/) HTML5 course.*
+> This was a project developed during the [Curso em Vídeo](https://www.cursoemvideo.com/) [HTML5 course](https://www.cursoemvideo.com/course/html5/).
 
 ## :play_or_pause_button: What is Curso em Vídeo?
 
@@ -20,7 +18,7 @@ Google is one of the most important technology companies of the moment and, in p
 
 ### :desktop_computer: About the project
 
-* The front end is made with HTML5, CSS3 and JavaScript.
+- The front end is made with HTML5, CSS3 and JavaScript.
 
 ### :book: About the course
 
@@ -39,3 +37,11 @@ There are no requirements to run the project on your computer! Just double click
 ## :tada: If everything went well...
 
 Now you are running the project beautifully!
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
+
+---
+
+Made with :black_heart: by Lucas Coutinho :wave: [Get in touch!](https://www.linkedin.com/in/lucasmc64/)
